@@ -11,7 +11,12 @@
     "watch-node": "nodemon dist/index.js",
     "watch-ts": "tsc -w"
   },
-  "keywords": ["nodejs-starter","nodejs boilerplate","nodejs boilerplate with type script","simple node typescript starter"],
+  "keywords": [
+    "nodejs-starter",
+    "nodejs boilerplate",
+    "nodejs boilerplate with type script",
+    "simple node typescript starter"
+  ],
   "author": "Abdulrahman Alaa",
   "license": "ISC",
   "devDependencies": {
